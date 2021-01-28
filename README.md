@@ -1,2 +1,2 @@
 # DataIncube
- The data assets are yet to be generated.
+ The data set is yet to be generated.
